@@ -39,7 +39,6 @@ require (
 	github.com/denisenkom/go-mssqldb v0.0.0-20190423183735-731ef375ac02 // indirect
 	github.com/docker/docker v1.13.1
 	github.com/docker/go-connections v0.4.0
-	github.com/docker/go-units v0.4.0 // indirect
 	github.com/docker/spdystream v0.0.0-20181023171402-6480d4af844c // indirect
 	github.com/dropbox/godropbox v0.0.0-20190501155911-5749d3b71cbe // indirect
 	github.com/duosecurity/duo_api_golang v0.0.0-20190308151101-6c680f768e74 // indirect
@@ -61,11 +60,11 @@ require (
 	github.com/gocql/gocql v0.0.0-20190423091413-b99afaf3b163 // indirect
 	github.com/gogo/protobuf v1.3.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
-	github.com/golang/protobuf v1.3.2
+	github.com/golang/protobuf v1.5.0
 	github.com/golang/sync v0.0.0-20180314180146-1d60e4601c6f
 	github.com/google/btree v1.0.0 // indirect
 	github.com/google/cel-go v0.2.0
-	github.com/google/go-cmp v0.3.1
+	github.com/google/go-cmp v0.5.5
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/google/go-querystring v1.0.0 // indirect
 	github.com/google/uuid v1.1.1
@@ -105,7 +104,7 @@ require (
 	github.com/onsi/gomega v1.5.0
 	github.com/open-policy-agent/opa v0.8.2
 	github.com/opencontainers/image-spec v1.0.1 // indirect
-	github.com/opencontainers/runc v0.1.1 // indirect
+	github.com/opencontainers/runc v1.1.2 // indirect
 	github.com/openshift/api v3.9.1-0.20191008181517-e4fd21196097+incompatible
 	github.com/opentracing/opentracing-go v1.0.2
 	github.com/openzipkin/zipkin-go v0.1.7
@@ -142,9 +141,8 @@ require (
 	go.opencensus.io v0.21.0
 	go.uber.org/atomic v1.4.0
 	go.uber.org/zap v1.10.0
-	golang.org/x/net v0.0.0-20191014212845-da9a3fd4c582
+	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sys v0.0.0-20191010194322-b09406accb47 // indirect
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
 	golang.org/x/tools v0.0.0-20190624180213-70d37148ca0c
 	google.golang.org/api v0.8.0
